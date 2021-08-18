@@ -1,5 +1,9 @@
-git clone
-git add
-git commit -m ""
-git push -u origin main
-git config --list
+ git clone <repo>
+ touch test
+ git add test
+ git commit -m "Initial commit"
+ git push origin main
+ git branch name
+ git checkout
+ git status
+ git pull
